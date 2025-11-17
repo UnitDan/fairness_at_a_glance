@@ -106,7 +106,9 @@ i.e., the average fairness score over the last 20 epochs.
 ## 🚀 4. Training
 
 ### **Financial Risk Prediction**
-Just run the following script to train the models on all datasets and sensitive attributes:
+First, download the ACSIncome and ACSEmploy datasets [here](https://pan.baidu.com/s/1wev6oLlQm87njirFRT0N1w?pwd=vkk2), and put the csv files in the `financial/data/2018/1-Year` folder.
+
+Then just run the following script to train the models on all datasets and sensitive attributes:
 
 ```bash
 cd financial
